@@ -1,3 +1,22 @@
-.header_menu{
-  background-color: aqua;
-}
+.header-qm{
+  background-color: #066F33;;
+  display: grid;
+  margin: 0px;
+  padding: 30px 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-transform: uppercase;
+ }
+
+ img{
+  width: 300px;
+  max-width: 100%;
+ }
+
+ .header-qm{
+  grid-template-columns: 1fr 1fr;
+  text-align: center;
+ }
+
+ .loja{
+ border-radius: 5px;
+ }
