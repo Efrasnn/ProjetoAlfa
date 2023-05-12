@@ -4,12 +4,22 @@
   margin: 0px auto;
   padding: 30px 20px;
   font-family: Arial, Helvetica, sans-serif;
-  gap: 30px;
+  gap: 40px;
   justify-content: center;
   
  }
 
+ .home-qm { 
+  background-color: #f4f4f4;
+  padding: 10px 20px;
+  margin: 10px;
+  gap: 20px;
+
+ 
+ }
+
  p, 
+ a,
  h1 , 
  h2, 
  h3 {
@@ -24,6 +34,7 @@
  .header-qm {
   grid-template-columns: 1fr 1fr;
   align-items: center;
+  margin-top: 30px;
  }
 
  .loja {
@@ -44,6 +55,8 @@
 }
 
 
+/* Resposivos*/
+
 @media (max-width:1000px){
   .header-qm p{
   font-size: 25px;
@@ -54,10 +67,9 @@
   .header-qm p{
   font-size: 10px;
   
-}
-  
   }
 .loja{
   width: 150px;
   }
+}
   
