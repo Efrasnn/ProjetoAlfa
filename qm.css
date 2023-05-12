@@ -52,10 +52,11 @@
 
 @media (max-width:600px){
   .header-qm p{
-  font-size: 10px;
+  font-size: 15px;
 }
+  
+  }
 .loja{
   width: 150px;
-}
-}
+  }
   
