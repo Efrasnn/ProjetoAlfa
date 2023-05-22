@@ -66,9 +66,11 @@
     .header_menu{
       font-size: 10px ;
       padding:10px 15px ;
+      margin-top: 15px  ;
     }
-    .logo{
+    .start-header .logo{
       width: 250px;
+    
     }
  }
 

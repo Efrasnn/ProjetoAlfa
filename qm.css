@@ -102,6 +102,10 @@
       height: 25px;
     }
  }
+
+ .start-header a:hover {
+  border: solid #066F33;
+}
   
 /* segunda parte*/
 

@@ -22,14 +22,14 @@
 
 @media(max-width: 800px){
  .subtitulo{
-  font-size: 2rem;
+  font-size: 1.25rem;
    }
 
  }
 
  @media(max-width: 500px){
   .subtitulo{
-   font-size: 20px;
+   font-size: 0.85rem;
       }
     .rodape{
       font-size: 10px;
