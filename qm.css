@@ -172,5 +172,33 @@ font-size: 2rem;
 
 .beneficios-pet{
   margin-bottom: 30px;
+  font-size: 1.75rem;
+}
+
+
+.texto-beneficios{
+  font-size: 1.25rem;
+  line-height: 1.75;
+}
+
+.texto-beneficios strong{
+  color: #f4f4f4;
+}
+
+.racoes-lista-texto{
+  padding: 20px;
+}
+
+ol{
+  margin: 0px;
+}
+
+
+.racoes-lista 
+li {
+padding: 10px;
+color: beige;
+line-height: 1.25;
+font-size:  ;
 }
 
