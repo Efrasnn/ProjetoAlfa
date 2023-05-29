@@ -197,7 +197,19 @@ ol{
 .racoes-lista 
 li {
 padding: 10px;
-color: beige;
 line-height: 1.25;
 }
+
+
+  .racoes-container {
+    padding: 20px 30px;
+    margin-top: 20px;
+  }
+
+  footer {
+    padding: 60px 30px;
+    background-color: #066F33;
+ }
+
+
 
