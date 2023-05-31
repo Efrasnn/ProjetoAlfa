@@ -208,4 +208,36 @@ line-height: 1.25;
 
   footer {
     background-color: #066F33;
+    color: #f4f4f4;
+ }
+
+
+ .footer-container  {
+  display: flex;
+  justify-content: space-between;
+  padding: 60px 30px;
+  gap: 30px;
+ }
+
+ .footer-contato a{
+  color: #f4f4f4; 
+  font-size: 20px;
+ }
+
+ .footer-contato{
+    display: grid;
+    gap: 10px;
+ }
+
+ .footer-texto {
+ display: grid;
+ text-align: center;
+ align-content: center;
+ }
+
+ .footer-copy {
+  text-align: center;
+  background-color: #f4f4f4;
+  color: #141414;
+  padding: 10px 15px;
  }
