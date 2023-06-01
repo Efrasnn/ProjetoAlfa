@@ -260,7 +260,7 @@ line-height: 1.25;
     grid-template-columns: 1fr;
     font-size: 1.25rem;
   }
-  
+ }
   .footer-contato a {
     display: grid;
     justify-content: center;
